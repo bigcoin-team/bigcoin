@@ -4580,8 +4580,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "BIG Alert" admin@foo.com
         <translation>Debes especificar un masternodeprivkey en la configuración. Por favor mira la documentación por ayuda.</translation>
     </message>
     <message>
-        <source>(5555 could be used only on mainnet)</source>
-        <translation>(5555 puede ser utilizado solo en mainnet)</translation>
+        <source>(8705 could be used only on mainnet)</source>
+        <translation>(8705 puede ser utilizado solo en mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -4592,8 +4592,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "BIG Alert" admin@foo.com
         <translation>(predeterminado: 1)</translation>
     </message>
     <message>
-        <source>(must be 5555 for mainnet)</source>
-        <translation>(debe ser 5555 para un mainnet)</translation>
+        <source>(must be 8705 for mainnet)</source>
+        <translation>(debe ser 8705 para un mainnet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>

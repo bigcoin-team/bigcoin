@@ -226,10 +226,10 @@ QT_TRANSLATE_NOOP("big-core", ""
 QT_TRANSLATE_NOOP("big-core", ""
 "You must specify a masternodeprivkey in the configuration. Please see "
 "documentation for help."),
-QT_TRANSLATE_NOOP("big-core", "(5555 could be used only on mainnet)"),
+QT_TRANSLATE_NOOP("big-core", "(8705 could be used only on mainnet)"),
 QT_TRANSLATE_NOOP("big-core", "(default: %s)"),
 QT_TRANSLATE_NOOP("big-core", "(default: 1)"),
-QT_TRANSLATE_NOOP("big-core", "(must be 5555 for mainnet)"),
+QT_TRANSLATE_NOOP("big-core", "(must be 8705 for mainnet)"),
 QT_TRANSLATE_NOOP("big-core", "<category> can be:"),
 QT_TRANSLATE_NOOP("big-core", "Accept command line and JSON-RPC commands"),
 QT_TRANSLATE_NOOP("big-core", "Accept connections from outside (default: 1 if no -proxy or -connect)"),
