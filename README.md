@@ -36,6 +36,7 @@ More information at [BIG.net](http://www.big.net/) Visit our ANN thread at [Bitc
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
-<tr><td>Phase 1</td><td>203-100000</td><td>4 BIG</td><td>60% (2.4 BIG)</td><td>40% (1.6 BIG)</td></tr>
+<tr><td>Phase 1</td><td>204-100000</td><td>4 BIG</td><td>60% (2.4 BIG)</td><td>40% (1.6 BIG)</td></tr>
 <tr><td>Phase 2</td><td>100000-infinite</td><td>2 BIG</td><td>60% (1.2 BIG)</td><td>40% (0.8 BIG)</td></tr>
 </table>
+### P.S.-When the budget system is implemented the stakers will get 35% of blockreward and 5% will go in Budget.
