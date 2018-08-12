@@ -17,31 +17,25 @@ More information at [BIG.net](http://www.big.net/) Visit our ANN thread at [Bitc
 <tr><td>Algo</td><td>Xevan</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply (PoW Phase)</td><td>190,200 BIG</td></tr>
-<tr><td>Max Coin Supply (PoS Phase)</td><td>19,000,000</td></tr>
-<tr><td>Premine</td><td>190,000 BIG</td></tr>
+<tr><td>Max Coin Supply (PoS Phase)</td><td>20,000,000</td></tr>
+<tr><td>Premine</td><td>5% BIG</td></tr>
 </table>
 
 
 ### Reward Distribution
 
 <table>
-<th colspan=4>PoW Phase</th>
-<tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th><th>Duration (Days)</th></tr>
-<tr><td>1</td><td>190,000 BIG</td><td>Initial Premine</td><td>0 Days</td></tr>
-<tr><td>2-200</td><td>1 BIG</td><td rowspan=1>Test Mining</td><td rowspan=1> Approx 0 Days</td></tr>
+<th colspan=3>PoW Phase</th>
+<tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th></tr>
+<tr><td>0</td><td>0 BIG</td><td>Genesis Block</td></tr>
+<tr><td>1-202</td><td>42.94 BIG</td><td rowspan=1>Test Mining(Locked & will be burnt later)</td></tr>
+<tr><td>203</td><td>500,000 BIG</td><td rowspan=1>Initial Premine</td></tr>
 
 
 ### PoS Rewards Breakdown
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
-<tr><td>Phase 1</td><td>0-200</td><td>1 BIG</td><td>60% (0.6 BIG)</td><td>40% (0.4 BIG)</td></tr>
-<tr><td>Phase 2</td><td>201-25000</td><td>15 BIG</td><td>60% (9 BIG)</td><td>40% (6 BIG)</td></tr>
-<tr><td>Phase 3</td><td>25001-100000</td><td>30 BIG</td><td>70% (21 BIG)</td><td>30% (9 BIG)</td></tr>
-<tr><td>Phase 4</td><td>100001-200000</td><td>20 BIG</td><td>80% (16 BIG)</td><td>20% (4 BIG)</td></tr>
-<tr><td>Phase 5</td><td>200001-500000</td><td>10 BIG</td><td>85% (8.5 BIG)</td><td>15% (1.5 BIG)</td></tr>
-<tr><td>Phase 6</td><td>500001-1000000</td><td>5 BIG</td><td>90% (4.5 BIG)</td><td>10% (0.5 BIG)</td></tr>
-<tr><td>Phase 7</td><td>1000001-2000000</td><td>2 BIG</td><td>90% (1.8 BIG)</td><td>10% (0.2 BIG)</td></tr>
-<tr><td>Phase 8</td><td>2000001-Max</td><td>1 BIG</td><td>90% (0.9 BIG)</td><td>10% (0.1 BIG)</td></tr>
+<tr><td>Phase 1</td><td>203-100000</td><td>4 BIG</td><td>60% (2.4 BIG)</td><td>40% (1.6 BIG)</td></tr>
+<tr><td>Phase 2</td><td>100000-infinite</td><td>2 BIG</td><td>60% (1.2 BIG)</td><td>40% (0.8 BIG)</td></tr>
 </table>
