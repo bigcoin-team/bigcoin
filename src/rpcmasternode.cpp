@@ -624,8 +624,17 @@ Value createmasternodekey (const Array& params, bool fHelp)
 
     CKey secret;
     secret.MakeNewKey(false);
+	
+	Object obj;
 
-    return CBitcoinSecret(secret).ToString();
+    CPubKey pubkey;
+    pubkey = secret.GetPubKey();
+    std::string hexstring = HexStr(pubkey.begin(), pubkey.end());
+	
+	obj.push_back(Pair(" Secret key ",  CBitcoinSecret(secret).ToString()));
+    obj.push_back(Pair(" Public key ",  hexstring));
+	return obj;
+    //return CBitcoinSecret(secret).ToString();
 }
 
 Value getmasternodeoutputs (const Array& params, bool fHelp)

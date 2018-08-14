@@ -195,8 +195,8 @@ public:
         fHeadersFirstSyncingActive = false;
 
         nPoolMaxTransactions = 3;
-        strSporkKey = "042d34a6632a386aed9f7b74961ce3eff4bdf40d2bf6575826174f1825080b6c9cac7f84b7bd1eb9347031ebb6f05a5328d796eff2eb0d8c101a75b8bc8f0ab401";
-        strObfuscationPoolDummyAddress = "Ceax8jHDQ1s2kHVjysEoTQncVdUrNBuXtp";
+        strSporkKey = "043c5c8f863ca85bd0f22e67088edebcff91e50ec703191977e06256bedadb3a9026979635632f1d896b255bc0dc4484dd094167468af46c10c63166a99daab317";
+        strObfuscationPoolDummyAddress = "ETWqGLjQa6pu8DTgbbKQizR7rjrBFxmBUU";
         nStartMasternodePayments = 1403728576; //Wed, 25 Jun 2014 20:36:16 GMT
 
         /** Zerocoin */
